@@ -1,6 +1,8 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/ovalcorp/ovalcorp/blob/main/visual%20content/hi.gif" width = 30px> </h1>
 <p align='center'>
 </p>
+<img src="https://github.com/ovalcorp/ovalcorp/blob/main/visual%20content/luis%20pozo.png" alt="engineer, programmer, and passionate about software">  
+  
 ## Hi there 👋
 
 <!--
