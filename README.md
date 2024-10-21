@@ -6,6 +6,7 @@
 ## <picture><img src="https://github.com/ovalcorp/ovalcorp/blob/main/visual%20content/me_computer.gif" width="50"></picture> About me
 <picture> <img align="right" src="https://github.com/ovalcorp/ovalcorp/blob/main/visual%20content/Designer%202.jpeg" width = 250px></picture>
 
+<!-- about me -->
 - :school: I am an `engineer` from [FIEE](https://fiee.uni.edu.pe/es/) at [UNI](https://portal.uni.edu.pe/), and i did my student exchange at [UFF](https://www.uff.br/).
 - :technologist: I hold the position of Head of `Technologies` at [EmergentCold](https://emergentcoldlatam.com/pt/).
 - :computer: I am a competitive programmer at `Java Script`, `Python`, `React`.
@@ -16,7 +17,7 @@
 
 
 ### <img src="https://github.com/ovalcorp/ovalcorp/blob/main/visual%20content/me_computer.gif" width="50"> A little more about me...  
-
+<!-- more about me -->
 ```javascript
 const ovalcorp = {
   profession: "electronic engineer",
@@ -32,18 +33,37 @@ const ovalcorp = {
  hobbies: ["basketball", "rubic cube"]
 }
 ```
+<!--  skills -->
+<h2> Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,atom,azure,bootstrap,html,cpp,js,css,django,git,github,heroku,htmx,idea,java,latex,php,postman,pycharm,py,raspberrypi,react,sass,sublime,vscode" />
+  </a>
+</p>
 
-<!--
-**ovalcorp/ovalcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Connect with me -->
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<!--icons and links-->
+<p align="left">
+  <a href="https://pe.linkedin.com/in/luis-eduardo-pozo-farf%C3%A1n">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ovalcorp">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href= "mailto: pozofarfanluis20@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/pozo_farfan/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<!-- Footer -->
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+Credits: [ovalcorp](https://github.com/ovalcorp)
+
+Last Edited on: 21/10/2024
+-----
