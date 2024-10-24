@@ -10,9 +10,9 @@
 - :school: I am an `engineer` from [FIEE](https://fiee.uni.edu.pe/es/) at [UNI](https://portal.uni.edu.pe/), and i did my student exchange at [UFF](https://www.uff.br/).
 - :technologist: I hold the position of Head of `Technologies` at [EmergentCold](https://emergentcoldlatam.com/pt/).
 - :computer: I am a competitive programmer at `Java Script`, `Python`, `React`.
-- :busts_in_silhouette: I'm looking to collaborate on projects
+- :busts_in_silhouette: I'm looking to collaborate on projects.
 - :basketball: Fun fact: I like sunflowers, basketball and playing guitar.
-- :envelope_with_arrow: Feel free to reach me out lpozo@id.uff.br
+- :envelope_with_arrow: Feel free to reach me out lpozo@id.uff.br.
 <br>
 
 
